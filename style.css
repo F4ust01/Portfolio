@@ -1,0 +1,25 @@
+#nav_inicio{
+    color: white;
+
+}
+
+#proy{
+    color: white;
+}
+
+#contactos{
+    color: white;
+}
+
+    body {
+        background-image: url('body_background.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+      }
+      
+      html, body {
+        height: 100%;
+      }
+      
